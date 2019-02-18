@@ -1,6 +1,7 @@
 # windows_hosts_privacy
 Ajouts au fichier C:\windows\System32\drivers\hosts pour bloquer les pubs skype et l'envoi des données de télémétrie de Windows 10.
 Ces ajouts permettent de rediriger les demandes de connexion de Windows10 ou Skype vers la machine locale '127.0.0.1) ce qui les bloque
+
 Référence pour la télémétrie: https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Cyber-Sicherheit/SiSyPHus/Workpackage4_Telemetry.pdf;jsessionid=8A217E440EEAEB820870B899E1FD97C5.1_cid369?__blob=publicationFile&v=4
 
 ```
